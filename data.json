@@ -1,0 +1,9 @@
+{
+  "products": [
+
+      {"id":1,"name":"Cerveja Beck","price":3.50},
+      {"id":2,"name":"Cerveja Heineken","price":3.90},
+      {"id":3,"name":"Cachaça Pitú","price":8.00}
+  ]
+
+}
